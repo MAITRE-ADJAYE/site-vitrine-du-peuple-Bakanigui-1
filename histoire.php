@@ -23,12 +23,12 @@
 
     <h1 class="text-center mt-5 fw-bolder"> Histoire du peuple Bakanigui</h1>
 
-    <div class="container justify-content-center bloc-1">
+    <div class="container justify-content-center bloc-1 box ">
       <div class="row text-center mt-5">
-        <div class="col-12 col-sm-12 col-md-4 col-lg-2 offset-lg-1 mt-2 mb-2">
+        <div class="col-12 col-sm-12 col-md-4 col-lg-2 offset-lg-1 mt-2 mb-2 img_histoire">
           <a href="images/bakanigui_01.png"><img class="image col-8" src="images/bakanigui_01 (1).png" alt="image"></a>
         </div>
-        <p class="col-12 col-sm-12 col-md-8 col-lg-8 text-vision mt-2 pt-lg-5">
+        <p class="col-12 col-sm-12 col-md-8 col-lg-8 text-vision mt-2 pt-lg-5 text_histoire ">
           Les différentes sources que nous avons consultées nous expliquent que les Bakanigui font partie
           des peuples BANTOU.Les peuples BANTOU, d’après les sources était originaire des hauts
           plateaux du sud de l’Afrique de l’Ouest dans les actuels Nigéria et Cameroun.
@@ -37,15 +37,15 @@
     </div>
 
 
-    <div class="container justify-content-center bloc-2 mt-3">
+    <div class="container justify-content-center bloc-2 mt-3 box_1">
       <div class="row text-center">
-        <div class="col-6 col-sm-12 col-md-4 col-lg-2 offset-lg-3 mt-3">
-          <a href="images/bakanigui_02.png"><img class="image col-8" src="images/bakanigui_02 (1).png" alt="image"></a>
+        <div class="col-6 col-sm-12 col-md-4 col-lg-2 offset-lg-3 mt-3 img_histoire_1">
+          <a href="images/bakanigui_02.png"><img class="image col-8 " src="images/bakanigui_02 (1).png" alt="image"></a>
         </div>
-        <div class="col-6 col-sm-12 col-md-4 col-lg-2 mt-3">
+        <div class="col-6 col-sm-12 col-md-4 col-lg-2 mt-3 img_histoire_1">
           <a href="images/bakanigui_04.png"><img class="image col-4" src="images/bakanigui_04 (1).png" alt="image"></a>
         </div>
-        <div class="col-6 col-sm-12 col-md-4 col-lg-2 mt-3">
+        <div class="col-6 col-sm-12 col-md-4 col-lg-2 mt-3 img_histoire_1">
           <a href="images/bakanigui_03 (1).png"><img class="image col-4" src="images/bakanigui_03 (1).png" alt="image"></a>
         </div>
       </div>
@@ -53,7 +53,7 @@
 
     <div class="container justify-content-center bloc-3">
       <div class="row text-center">
-        <p class="col-12 col-sm-12 col-md-8 col-lg-10 text-vision offset-lg-1 mt-2 pt-lg-3">
+        <p class="col-12 col-sm-12 col-md-8 col-lg-10 text-vision offset-lg-1 mt-2 pt-lg-3 text_histoire_1">
             Il entame une migration vers le centre et le sud de
             l’Afrique. Au premier millénaire, deux zones de
             peuplement bantou sont connues : La régions des
@@ -61,7 +61,7 @@
         </p>
       </div>
     </div>
-    <div class="container justify-content-center bloc-4 mt-3">
+    <div class="container justify-content-center bloc-4 mt-3 text_histoire_1">
       <div class="row text-center">
         <p class="col-12 col-sm-12 col-md-8 col-lg-8 text-vision offset-lg-1 mt-2 pt-lg-5">
             Le peuple Bakanigui se trouvait parmi ces peuples 
@@ -77,7 +77,7 @@
 
     <div class="container justify-content-center bloc-5 mt-3">
       <div class="row text-center">
-        <div class="col-12 col-sm-12 col-md-4 col-lg-2 offset-lg-1 mt-2">
+        <div class="col-12 col-sm-12 col-md-4 col-lg-2 offset-lg-1 mt-2 ">
           <a href="images/bakanigui_06.png"><img class="image col-8" src="images/bakanigui_06 (1).png" alt="image"></a>
         </div>
         <p class="col-12 col-sm-12 col-md-8 col-lg-8 text-vision mt-2 pt-lg-3">
@@ -106,3 +106,4 @@
 </body>
 
 </html>
+
